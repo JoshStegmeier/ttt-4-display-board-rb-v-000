@@ -195,7 +195,7 @@ describe "#display_board in 'lib/display_board.rb" do
       expect(rows[4]).to eq(" 0 | 0 | 0 ")
 
       # *** Comment the line below by adding a # at the line start ***
-      expect(true).to be(true)
+      # expect(true).to be(true)
     end
   end
 end
