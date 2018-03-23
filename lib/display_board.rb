@@ -11,4 +11,4 @@ def display_board(board)
   print " #{6} " "|" " #{7} " "|" " #{8} \n"
 end
 
-display_board
+display_board(board)
